@@ -16,5 +16,8 @@ git commit -m "_"
 ```sh
 git log
 ```
-* git log --oneline
+* Вывод истории коммитов в виде строки + урезанный хэш 
+```sh
+git log --oneline
+```
 * git checkout
