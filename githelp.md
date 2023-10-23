@@ -8,7 +8,10 @@ git init
 ```sh
 git add
 ```
-* git commit -m "_"
+* Создание коммита + сообщение
+```sh
+git commit -m "_"
+```
 * git log
 * git log --oneline
 * git checkout
