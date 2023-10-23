@@ -12,6 +12,9 @@ git add
 ```sh
 git commit -m "_"
 ```
-* git log
+* Вывод на экран истории всех коммитов
+```sh
+git log
+```
 * git log --oneline
 * git checkout
