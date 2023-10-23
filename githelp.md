@@ -4,7 +4,10 @@
 ```sh 
 git init
 ```
-* git add
+* Добваление файла
+```sh
+git add
+```
 * git commit -m "_"
 * git log
 * git log --oneline
