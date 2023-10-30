@@ -24,3 +24,19 @@ git log --oneline
 ```sh
 git checkout
 ```
+* Просмотр всех ветвлений
+```sh
+git branch
+```
+* Удаление ветки
+```sh
+git branch -d
+```
+* Слиянее ветвлей
+```sh
+git merge
+```
+* Просмотр всех ветвлений с комитами
+```sh
+git log --graph
+```
