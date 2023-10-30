@@ -22,7 +22,7 @@ git log --oneline
 ```
 * Переход между коммитами по хэшу
 ```sh
-git checkout
+git checkout "_"
 ```
 * Просмотр всех ветвлений
 ```sh
@@ -30,13 +30,18 @@ git branch
 ```
 * Удаление ветки
 ```sh
-git branch -d
+git branch -d"_"
 ```
-* Слиянее ветвлей
+* Слиянее ветвлей_
 ```sh
-git merge
+git merge "_"
 ```
 * Просмотр всех ветвлений с комитами
 ```sh
 git log --graph
 ```
+* Переход между ветками
+```sh
+git checkout "_"
+```
+выход из редактора ":wq"
