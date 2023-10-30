@@ -40,3 +40,7 @@ git merge
 ```sh
 git log --graph
 ```
+* Переход между ветками
+```sh
+git checkout
+```
